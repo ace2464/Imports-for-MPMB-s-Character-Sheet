@@ -108,9 +108,9 @@ RaceList["cosi merfolk"] = {
 	weight : " average around 300 pounds",
 	heightMetric : " stand between 1,8 and 2,2 metres tall",
 	skills : ["Sleight of Hand", "Stealth"],
-	improvements : "Ula Creed Merfolk: +1 Intelligence, +2 Charisma;",
+	improvements : "Cosi Creed Merfolk: +1 Intelligence, +2 Charisma;",
 	scores : [0, 0, 0, 1, 0, 2],
-	trait : "Ula Creed Merfolk (+1 Intelligence, +2 Charisma)\nAmphibious: I can breathe air and water.\nCreed of the Trickster: I have proficiency in the Sleight of Hand and Stealth skills.\nCantrip: I know one cantrip of my choice from the bard spell list. Charisma is my spellcasting ability for it.",
+	trait : "Cosi Creed Merfolk (+1 Intelligence, +2 Charisma)\nAmphibious: I can breathe air and water.\nCreed of the Trickster: I have proficiency in the Sleight of Hand and Stealth skills.\nCantrip: I know one cantrip of my choice from the bard spell list. Charisma is my spellcasting ability for it.",
 	spellcastingAbility : 6,
 	spellcastingBonus : {
 		name : "Cosi Creed Cantrip",
